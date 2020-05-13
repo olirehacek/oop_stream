@@ -16,9 +16,8 @@ Stream videos from Ing. Jakub Plesink on youtube [channel](https://www.youtube.c
 
 
 ## HUGE Disclaimer :warning:
-
 All codes that are written in this repository are just snippets and I do not guarantee their correctness. 
 Even though I tried to make them correct there could be things that cannot be interpreted without context or 
-simply there was not enough time to fix it :see_no_evil:
+simply there was not enough time to fix it.
 Videos are "independent" and presented as ALTERNATIVE and ADDITIONAL materials and DO NOT represent the
 quality of offical course materials
