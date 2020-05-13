@@ -4,7 +4,7 @@
 
 ## Contents
 
-- [All streams]
+- [All streams - In czech language]
   - [Stream 1 / General OOP, Modularity , Classes and Objects](https://www.youtube.com/watch?v=mD1AP9XNokI)
   - [Stream 2 / Pointers, Inheritance](https://www.youtube.com/watch?v=C3GeM5zeqxk)
   - [Stream 3 / Polymorfism & Abstract Classes](https://www.youtube.com/watch?v=jgMUe4_1KKg)
