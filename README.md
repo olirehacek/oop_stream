@@ -6,7 +6,7 @@
 
 - [All streams - In czech language]
   - [Stream 1 / General OOP, Modularity , Classes and Objects, Inheritance](https://www.youtube.com/watch?v=mD1AP9XNokI)
-  - [Stream 2 / Abstract Classes](https://www.youtube.com/watch?v=jgMUe4_1KKg)
+  - [Stream 2 / Polymorphism, Abstract Classes](https://www.youtube.com/watch?v=jgMUe4_1KKg)
   - [Stream 3 / TBA](https://www.youtube.com/watch?v=cqU86x1e8ho)
 
 
